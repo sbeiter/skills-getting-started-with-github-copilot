@@ -38,5 +38,7 @@
 ehthumbs.db
 Thumbs.db
 .actrc*
-
+labenv/
+.venv/
 __pycache__/
+*.pyc
